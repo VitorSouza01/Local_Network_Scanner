@@ -21,8 +21,3 @@ A varredura é feita utilizando o protocolo ARP (Address Resolution Protocol), q
 ## 🖥️ Tecnologia Utilizada
 
 * Python
-
-
-
-## 🖼️ Imagens
-
